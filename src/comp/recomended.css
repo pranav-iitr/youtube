@@ -1,0 +1,22 @@
+.recomended {    
+    flex: 0.8;  
+    background-color: #f9f9f9;
+    padding:40px 20px ;
+    padding-bottom: 0px;
+}
+.recomended > h2 {
+    margin-left:5px ;
+    margin-bottom: 20px;
+}
+.videocard_info{
+    display: flex;
+    ;
+}
+.recomended_videos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.vc{
+    padding: 25px;
+    margin: 15px;
+}

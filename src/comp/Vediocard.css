@@ -1,0 +1,20 @@
+.videocard{
+    box-sizing: content-box;
+    width:270px;
+    margin-bottom: 40px;
+}
+.videocard_thumbnai{
+    height: 140px;
+    width: 250px;
+}
+.videocard_info{
+    display: flex;
+}
+.recomended{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.channelname{
+    text-align: left;
+}

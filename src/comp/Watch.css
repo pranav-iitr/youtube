@@ -1,0 +1,8 @@
+.author{
+    display: flex;
+    box-align: center;
+    size: 16px;
+}
+.author h4{
+     size: 16px;
+}
